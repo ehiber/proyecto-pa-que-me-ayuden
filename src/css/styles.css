@@ -1,5 +1,12 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  box-sizing: border-box;
+}
 h1 {
   border-bottom: 1px solid greenyellow;
+
 }
 
 p {
